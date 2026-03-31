@@ -5,15 +5,15 @@ This folder groups files collected from the `britko/WaferMap_Defect_Classificati
 ## Structure
 
 - `notebooks/`
-  - Jupyter notebooks for experiments, model loading, and versioned project work
+  - 실험 파일들
 - `python_scripts/`
-  - Standalone Python scripts such as `project_v2.py`, `Project.py`, and model loading helpers
+  - 실행 스크립트들
 - `docs/`
-  - Reference PDF document
+  - PDF 문서
 - `config/`
-  - Environment/config-related text files
+  - 환경/설정 텍스트
 
-## Included files
+## 세부 구성
 
 ### notebooks
 - `WaferMap_Defect_Classification.ipynb`
